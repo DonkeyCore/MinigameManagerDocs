@@ -1,0 +1,13 @@
+me.donkeycore.minigamemanager.api.items
+me.donkeycore.minigamemanager.api.minigame
+me.donkeycore.minigamemanager.api.nms
+me.donkeycore.minigamemanager.api.rotation
+me.donkeycore.minigamemanager.api.scoreboard
+me.donkeycore.minigamemanager.api.teams
+me.donkeycore.minigamemanager.commands
+me.donkeycore.minigamemanager.config
+me.donkeycore.minigamemanager.core
+me.donkeycore.minigamemanager.events
+me.donkeycore.minigamemanager.listeners
+me.donkeycore.minigamemanager.minigames
+me.donkeycore.minigamemanager.rotations
