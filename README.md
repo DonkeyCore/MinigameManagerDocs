@@ -1,0 +1,2 @@
+# MinigameManagerDocs
+Documentation for MinigameManager
